@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+
+    width: 20% !important;
+    background-color: whitesmoke;
+    border-radius: 100px !important;
+    border-color:ghostwhite;
+    border-width: 3px;
+    border-style: solid;
+    color:gray;
+}
+
+#sofa{
+    margin-top: 150px;
+}
+
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+#status{
+font-size: 18px;
+}
+
+#exit{
+    margin-top: 20px;
+    float: right;
+    margin-right: 10px;
+    width:40px !important;
+    
+}
+
+h3{
+    color:white;
+}
